@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazif Balcı</h1>
-<h3 align="center">I'm studying Computer Engineering at University of Karabuk.Recently I've been studying C# , also I have worked on java at a basic level</h3>
+<h3 align="center">I'm studying Computer Engineering at University of Karabuk.Recently I've been studying .NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbalcinazif&label=Profile%20views&color=0e75b6&style=flat" alt="bbalcinazif" /> </p>
 
