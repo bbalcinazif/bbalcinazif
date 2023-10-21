@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nazif Balcı</h1>
-<h3 align="center">I'm studying Computer Engineering at University of Karabuk.Recently I've been studying .NET</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbalcinazif&label=Profile%20views&color=0e75b6&style=flat" alt="bbalcinazif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@balcinaziff" target="blank"><img src="https://img.shields.io/twitter/follow/@balcinaziff?logo=twitter&style=for-the-badge" alt="@balcinaziff" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **bbalci.nazif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
